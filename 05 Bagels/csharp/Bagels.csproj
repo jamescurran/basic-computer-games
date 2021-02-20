@@ -10,4 +10,8 @@
     <Compile Remove="TextUtil.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\basic-computer-games-dot-net\Games.Common\Games.Common.csproj" />
+  </ItemGroup>
+
 </Project>
